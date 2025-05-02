@@ -39,7 +39,7 @@ Follow these steps to run the Tic-Tac-Toe game on your system.
 
 ### ✅ Prerequisites
 
-- Python 3.x installed
+- Python 3 installed
 - Tkinter installed (usually comes pre-installed with Python)
 
 ---
